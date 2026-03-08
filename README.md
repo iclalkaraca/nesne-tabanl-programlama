@@ -1,0 +1,2 @@
+# nesne-tabanl-programlama
+notlarım
